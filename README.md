@@ -7,7 +7,7 @@
 
 ❖ Profile When a user enters their profile, they get to see their current rent. Users can quickly return their cars before the return date they chose, which updates the return date in the database. Each rent also has the full price to be paid for the number of days.
 
-Implemented Admin Features:
+## Implemented Admin Features:
 ❖ Sign in There is only one admin email available, so the admin uses the normal sign-in page as the customers, however, in the database his data is saved in a relation alone.
 
 ❖ Search The admin page’s only way of searching is the search bar which is similar to the one on the customer home page. Nevertheless, the admin has three different choices to search from: cars, offices, and customers.
